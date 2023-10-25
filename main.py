@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from PIL import Image
 import gspread
-from google.auth import impersonated_credentials
+#from google.auth import impersonated_credentials
 # from oauth2client.service_account import ServiceAccountCredentials
 import re
 import requests

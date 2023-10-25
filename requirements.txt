@@ -3,3 +3,5 @@ numpy
 pandas
 gspread
 matplotlib
+ServiceAccountCredentials
+impersonated_credentials
